@@ -1,6 +1,6 @@
-iniciar front: C:\Users\jonym\OneDrive\Escritorio\Alojamientos\front> npm run dev
+iniciar front: C:\Alojamientos\front> npm run dev
 
-iniciar back: C:\Users\jonym\OneDrive\Escritorio\Alojamientos\back> npm run dev
+iniciar back: C:Alojamientos\back> npm run dev
 
 
 Instalación
